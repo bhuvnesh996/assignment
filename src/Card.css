@@ -1,0 +1,43 @@
+.bg{
+  background: #fff;
+  overflow-wrap: break-word
+
+}
+.bg:focus{
+  background:  #A259FF;
+  color: #fff;
+}
+.sex{
+  font-size: 12px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+  color:#00000099;
+  text-transform: capitalize;
+ 
+}
+
+
+.text-name{
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+}
+.text-email{
+  font-size: 12px;
+  font-weight: 400;
+  font-family: 'Roboto', sans-serif;
+  color:  #E16259;
+}
+
+.clicked-card{
+  
+  background: #A259FF;
+}
+
+.card{
+  cursor: pointer;
+}
+
+.white-text{
+  color: #fff !important;
+}
