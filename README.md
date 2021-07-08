@@ -6,9 +6,15 @@ Simply hit run once and start coding. Will hot reload the web view.
 
 ## Running Scripts
 
+
 You can open a new shell window by hitting command+shift+S on macOS or control+shift+S (you can also access shortcuts from the `?` in the bottom right corner).
 
 When in the shell you can run any of the following scripts:
+## Running on npm
+Just run command "npm install" on directory of the project 
+
+## npm start 
+To run the currrent project
 
 ### `yarn test`
 
